@@ -1,22 +1,4 @@
-.. image:: https://readthedocs.org/projects/django-audit-log/badge/?version=latest
-   :target: https://readthedocs.org/projects/django-audit-log/?badge=latest
-   :alt: Documentation Status
-
-.. image:: https://badges.gitter.im/Join Chat.svg
-   :target: https://gitter.im/Atomidata/django-audit-log?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-
-.. image:: https://img.shields.io/pypi/v/django-audit-log.svg
-    :target: https://pypi.python.org/pypi/django-audit-log/
-    :alt: Latest Version
-
-.. image:: https://img.shields.io/pypi/pyversions/django-audit-log.svg
-    :target: https://pypi.python.org/pypi/django-audit-log/
-    :alt: Supported Python versions
-
-.. image:: https://img.shields.io/pypi/format/django-audit-log.svg
-    :target: https://pypi.python.org/pypi/django-audit-log/
-    :alt: Download format
-
+Because open source is ruinous, we've forked this and tried to make it compatible w/ Django 3.x
 
 ============================
 django-audit-log
