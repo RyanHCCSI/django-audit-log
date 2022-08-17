@@ -1,4 +1,4 @@
-Because open source is ruinous, we've forked this and tried to make it compatible w/ Django 3.x
+Because open source is ruinous, we've forked this and tried to make it compatible w/ Django 3.x and 4.x
 
 ============================
 django-audit-log
